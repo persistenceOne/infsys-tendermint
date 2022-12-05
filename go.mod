@@ -59,7 +59,7 @@ require (
 	github.com/btcsuite/btcd/btcutil v1.1.2
 	github.com/go-git/go-git/v5 v5.5.1
 	github.com/vektra/mockery/v2 v2.14.0
-	gonum.org/v1/gonum v0.8.2
+	gonum.org/v1/gonum v0.11.0
 	google.golang.org/protobuf v1.28.2-0.20220831092852-f930b1dc76e8
 )
 
